@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DaggerTuts</string>
+    <string name="activity_string">This is a string from activity module</string>
+</resources>
