@@ -14,13 +14,6 @@ import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
-//    @Inject
-//    @Named("string1")
-//    lateinit var myString: String
-
-//    @Inject
-//    @Named("string2")
-//    lateinit var myString2: String
 
     private val viewModel: NetworkViewModel by viewModels()
 
